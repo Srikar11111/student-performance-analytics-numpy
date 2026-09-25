@@ -73,3 +73,6 @@ student-performance-analytics-numpy/
 │
 └── numpy project/
     └── Student_Performance_Analytics.py
+## Project Output
+
+![Project Output](output.png)
